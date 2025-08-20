@@ -1,0 +1,13 @@
+a=int(input("enter a num1:"))
+b=int(input("enter num2:"))
+if(a>b):
+big=a
+else:
+big=b
+step=big
+while(True):
+if(big%a==0 and big%==0)
+break
+else:
+big=big+step
+print("LCM is",big)
